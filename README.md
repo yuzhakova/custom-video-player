@@ -11,7 +11,9 @@ This simple video player is using the HTML5 video element and JavaScript API
 - Set progress bar time
 - Display time in minutes and seconds
 
-!["Video Player"](https://raw.githubusercontent.com/yuzhakova/TBD.png)
+!["Video Player"](https://raw.githubusercontent.com/yuzhakova/video-player.png)
+!["Video Player"](https://raw.githubusercontent.com/yuzhakova/video-playing.png)
+
 
 - JavaScript
 - HTML
